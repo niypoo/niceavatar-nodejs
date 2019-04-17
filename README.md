@@ -2,7 +2,7 @@
 this repository for serve a niceavatar.com API for node.js
 
 ## Getting Started
-First you have to signup in <a href="niceavatar.com" target="_blanck">niceavatar.com</a> for get Your project's API Key then you can Configurations this repository
+First you have to signup in <a href="https://niceavatar.com" target="_blanck">niceavatar.com</a> for get Your project's API Key then you can Configurations this repository
 
 ### Installing
 Next, you'll need the `nice-avatar` package:
@@ -51,4 +51,4 @@ app.post('/register', niceAvatar.middleware, (req,res)=>{
 after middlware catch the `identifier` it's return the avatar image with `request` in `request.avatar`
 
 ### For more
-please read the documentations in <a href="niceavatar.com" target="_blanck">niceavatar.com</a>
+please read the documentations in <a href="https://niceavatar.com" target="_blanck">niceavatar.com</a>

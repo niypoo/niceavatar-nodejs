@@ -1,0 +1,20 @@
+{
+  "name": "nice-avatar",
+  "version": "1.0.2",
+  "description": "this is a tools for make you access on your account in nice-avatars.com and generate avatars by easy way",
+  "main": "nice-avatar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "nice-avatar",
+    "avatars",
+    "avatars generetor",
+    "avatars placeholder",
+    "avatars cloud",
+    "images placeholder"
+  ],
+  "author": "niypoo",
+  "license": "ISC"
+}
